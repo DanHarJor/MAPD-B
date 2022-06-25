@@ -4,6 +4,8 @@ services:
 
   dask-scheduler:
     image: jpazzini/mapd-b:dask-scheduler
+    mem_limit: 500M
+    cpus: 1
     container_name: dask-scheduler
     ports:
       - 8787:8787
@@ -14,14 +16,17 @@ services:
       - DASK_SCHEDULER_HOST=dask-scheduler
 
   dask-worker:
-    image: jpazzini/mapd-b:dask-worker
+    image: daniel/worker:v1
+    mem_limit: 1.9375G
+    cpus: 1
     depends_on:
       - dask-scheduler
     volumes:
       - $PWD:/opt/workspace
+   
     environment:
       - DASK_WORKER_CORES=1
-      - DASK_WORKER_MEMORY=512MB
+      - DASK_WORKER_MEMORY=1.9375G
       - DASK_WORKER_THREADS=1
       - DASK_SCHEDULER_HOST=dask-scheduler
 
@@ -31,6 +36,6 @@ services:
     depends_on:
       - dask-scheduler
     ports:
-      - 8888:8888
+      - 9994:8888
     volumes:
       - $PWD:/opt/workspace
