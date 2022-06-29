@@ -1,6 +1,6 @@
 dask/data/*
 dask/notebooks/data/*
-
+dask/dask-worker-space/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
