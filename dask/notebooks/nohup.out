@@ -1,0 +1,253 @@
+[I 12:41:22.417 NotebookApp] Serving notebooks from local directory: /home/ubuntu/daniel/MAPD-B/dask/notebooks
+[I 12:41:22.417 NotebookApp] Jupyter Notebook 6.4.8 is running at:
+[I 12:41:22.417 NotebookApp] http://localhost:9996/?token=3d6e6fced0ad86c49fe6fd7b24374fdc6aef68cae2897bcc
+[I 12:41:22.417 NotebookApp]  or http://127.0.0.1:9996/?token=3d6e6fced0ad86c49fe6fd7b24374fdc6aef68cae2897bcc
+[I 12:41:22.418 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:41:22.444 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/ubuntu/.local/share/jupyter/runtime/nbserver-88019-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:9996/?token=3d6e6fced0ad86c49fe6fd7b24374fdc6aef68cae2897bcc
+     or http://127.0.0.1:9996/?token=3d6e6fced0ad86c49fe6fd7b24374fdc6aef68cae2897bcc
+[I 12:48:46.761 NotebookApp] 302 GET / (127.0.0.1) 1.830000ms
+[I 12:48:46.836 NotebookApp] 302 GET /tree? (127.0.0.1) 1.990000ms
+[I 12:48:47.285 NotebookApp] 302 GET / (127.0.0.1) 0.640000ms
+[I 12:48:47.380 NotebookApp] 302 GET /tree? (127.0.0.1) 0.720000ms
+[W 12:49:09.531 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 7.130000ms referer=http://localhost:52172/login?next=%2Ftree%3F
+[I 12:50:56.342 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 3.470000ms
+[I 12:50:57.071 NotebookApp] 302 GET /tree? (127.0.0.1) 11.190000ms
+[W 12:51:13.150 NotebookApp] Notebook Daniel_dask_preprocessing.ipynb is not trusted
+[I 12:51:15.683 NotebookApp] Kernel started: 3cbb6d3d-f01c-4a17-be2c-a3490d91026c, name: python3
+[I 12:52:20.021 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:52:21.182 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:52:24.288 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:52:25.367 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:52:37.178 NotebookApp] Saving file at /Daniel_dask_preprocessing.ipynb
+[W 12:52:37.180 NotebookApp] Notebook Daniel_dask_preprocessing.ipynb is not trusted
+[I 12:52:43.275 NotebookApp] Saving file at /Daniel_dask_preprocessing.ipynb
+[W 12:52:43.301 NotebookApp] Notebook Daniel_dask_preprocessing.ipynb is not trusted
+[I 12:53:12.824 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:53:14.032 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:53:15.716 NotebookApp] Saving file at /Daniel_dask_preprocessing.ipynb
+[W 12:53:15.717 NotebookApp] Notebook Daniel_dask_preprocessing.ipynb is not trusted
+[I 12:53:19.393 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:53:20.508 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:53:22.764 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:53:23.897 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:54:21.598 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:54:22.725 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:54:24.564 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:54:25.690 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:55:15.726 NotebookApp] Saving file at /Daniel_dask_preprocessing.ipynb
+[W 12:55:15.729 NotebookApp] Notebook Daniel_dask_preprocessing.ipynb is not trusted
+[I 12:55:24.762 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:55:25.886 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:55:26.619 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:55:27.815 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:55:42.831 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:55:43.951 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:55:48.485 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:55:49.621 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:55:52.682 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:55:53.770 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:56:02.910 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:56:04.060 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:56:05.929 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:56:07.074 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:56:10.564 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:56:11.728 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:56:33.041 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:56:34.122 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:56:39.892 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:56:41.032 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:56:50.840 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:56:51.946 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:57:33.194 NotebookApp] Kernel interrupted: 3cbb6d3d-f01c-4a17-be2c-a3490d91026c
+[I 12:58:02.462 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:58:03.582 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:58:03.585 NotebookApp] Replaying 10 buffered messages
+[I 12:58:12.755 NotebookApp] Kernel interrupted: 3cbb6d3d-f01c-4a17-be2c-a3490d91026c
+[I 12:58:15.445 NotebookApp] Saving file at /Daniel_dask_preprocessing.ipynb
+[W 12:58:15.454 NotebookApp] Notebook Daniel_dask_preprocessing.ipynb is not trusted
+[I 12:58:47.415 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:58:48.572 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 12:59:15.725 NotebookApp] Saving file at /Daniel_dask_preprocessing.ipynb
+[W 12:59:15.727 NotebookApp] Notebook Daniel_dask_preprocessing.ipynb is not trusted
+[I 12:59:16.011 NotebookApp] Saving file at /Daniel_dask_preprocessing.ipynb
+[W 12:59:16.012 NotebookApp] Notebook Daniel_dask_preprocessing.ipynb is not trusted
+[I 13:01:01.185 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:01:02.410 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:01:15.828 NotebookApp] Saving file at /Daniel_dask_preprocessing.ipynb
+[W 13:01:15.830 NotebookApp] Notebook Daniel_dask_preprocessing.ipynb is not trusted
+[I 13:01:20.938 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:01:22.129 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:01:23.377 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:01:24.499 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:01:38.918 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:01:40.080 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:01:50.583 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:01:51.869 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:01:55.836 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:01:56.956 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:02:11.587 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:02:12.727 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:02:21.382 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:02:22.489 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:02:30.336 NotebookApp] Saving file at /Daniel_dask_preprocessing.ipynb
+[W 13:02:30.338 NotebookApp] Notebook Daniel_dask_preprocessing.ipynb is not trusted
+[I 13:02:33.295 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:02:34.440 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:02:36.955 NotebookApp] Saving file at /Daniel_dask_preprocessing.ipynb
+[W 13:02:36.956 NotebookApp] Notebook Daniel_dask_preprocessing.ipynb is not trusted
+[I 13:02:45.530 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:02:46.859 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:03:15.675 NotebookApp] Saving file at /Daniel_dask_preprocessing.ipynb
+[W 13:03:15.677 NotebookApp] Notebook Daniel_dask_preprocessing.ipynb is not trusted
+[I 13:03:57.339 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:03:58.453 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:04:08.305 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:04:09.439 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:05:17.188 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:05:18.339 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:05:22.809 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:05:23.938 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:05:28.106 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:05:29.218 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:06:25.442 NotebookApp] Saving file at /Daniel_dask_preprocessing.ipynb
+[W 13:06:25.444 NotebookApp] Notebook Daniel_dask_preprocessing.ipynb is not trusted
+[I 13:07:15.769 NotebookApp] Saving file at /Daniel_dask_preprocessing.ipynb
+[W 13:07:15.771 NotebookApp] Notebook Daniel_dask_preprocessing.ipynb is not trusted
+[I 13:07:19.303 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:07:20.420 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:07:32.190 NotebookApp] Saving file at /Daniel_dask_preprocessing.ipynb
+[W 13:07:32.192 NotebookApp] Notebook Daniel_dask_preprocessing.ipynb is not trusted
+[I 13:08:01.362 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:08:02.493 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:08:26.645 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:08:27.805 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:08:28.664 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:08:29.763 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:08:31.914 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:08:33.004 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:08:44.677 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:08:45.817 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:08:48.777 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:08:49.921 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:08:50.028 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:08:51.130 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:09:14.015 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:09:15.110 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:09:15.515 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:09:15.842 NotebookApp] Saving file at /Daniel_dask_preprocessing.ipynb
+[W 13:09:15.844 NotebookApp] Notebook Daniel_dask_preprocessing.ipynb is not trusted
+[I 13:09:16.659 NotebookApp] Restoring connection for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:09:19.675 NotebookApp] Starting buffering for 3cbb6d3d-f01c-4a17-be2c-a3490d91026c:d121d63274d640d68cb26a467590850c
+[I 13:10:19.730 NotebookApp] Shutting down on /api/shutdown request.
+[I 13:10:19.760 NotebookApp] Shutting down 1 kernel
+[I 13:10:19.765 NotebookApp] Kernel shutdown: 3cbb6d3d-f01c-4a17-be2c-a3490d91026c
+[I 13:10:22.390 NotebookApp] Shutting down 0 terminals
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/distributed/deploy/old_ssh.py", line 197, in async_ssh
+    channel.send(b"\x03")  # Ctrl-C
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/paramiko/channel.py", line 1198, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/distributed/deploy/old_ssh.py", line 197, in async_ssh
+    channel.send(b"\x03")  # Ctrl-C
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/paramiko/channel.py", line 1198, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/distributed/deploy/old_ssh.py", line 197, in async_ssh
+    channel.send(b"\x03")  # Ctrl-C
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/paramiko/channel.py", line 1198, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+Exception in thread Thread-7:
+Traceback (most recent call last):
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/distributed/deploy/old_ssh.py", line 197, in async_ssh
+    channel.send(b"\x03")  # Ctrl-C
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/paramiko/channel.py", line 1198, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+Exception in thread Thread-8:
+Traceback (most recent call last):
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/distributed/deploy/old_ssh.py", line 197, in async_ssh
+    channel.send(b"\x03")  # Ctrl-C
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/paramiko/channel.py", line 1198, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/distributed/deploy/old_ssh.py", line 197, in async_ssh
+    channel.send(b"\x03")  # Ctrl-C
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/paramiko/channel.py", line 1198, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/distributed/deploy/old_ssh.py", line 197, in async_ssh
+    channel.send(b"\x03")  # Ctrl-C
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/paramiko/channel.py", line 1198, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/distributed/deploy/old_ssh.py", line 197, in async_ssh
+    channel.send(b"\x03")  # Ctrl-C
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/paramiko/channel.py", line 801, in send
+    return self._send(s, m)
+  File "/home/ubuntu/miniconda3/envs/graphviz/lib/python3.9/site-packages/paramiko/channel.py", line 1198, in _send
+    raise socket.error("Socket is closed")
+OSError: Socket is closed
