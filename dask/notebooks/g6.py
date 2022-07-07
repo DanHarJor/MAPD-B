@@ -20,9 +20,19 @@ def build_cnn():
     return cnn
 
 cnn = build_cnn()
+
+def get_w(cnn):
+    layer_w = [lay.get_weights() for lay in cnn.layers]
+    return layer_w
+#changing the weights of the cnn
+def set_w(cnn,weights):
+    for lay,w in zip(cnn.layers, weights):
+        lay.set_weights(w)
+    return cnn
+
 #make a pickle file on the worker with the initial weights
 def weights_init():
-    weights = cnn.get_weights()
+    weights = get_w(cnn)
     f_weights = open(path_weights, 'wb')
     pickle.dump(weights, f_weights)
     f_weights.close()
