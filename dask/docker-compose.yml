@@ -16,7 +16,7 @@ services:
       - DASK_SCHEDULER_HOST=dask-scheduler
 
   dask-worker:
-    image: daniel/worker:v1
+    image: worker:v1
     mem_limit: 1.9375G
     cpus: 1
     depends_on:
