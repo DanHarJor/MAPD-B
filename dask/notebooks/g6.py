@@ -1,7 +1,7 @@
 from tensorflow.keras import models, layers
 import tensorflow as tf
 import pickle
-path_weights='/home/ubuntu/daskNotShared/weights.pkl'
+path_weights='/weights/weights.pkl'
 def build_cnn():
     cnn = models.Sequential([
         layers.Conv2D(filters=30, kernel_size=(3,3), activation='relu', input_shape=(198,198,3)),
